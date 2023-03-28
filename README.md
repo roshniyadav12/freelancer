@@ -1,1 +1,2 @@
-# GDSC SOLUTION CHALLENGE 2023
+# freelancer
+# GDSC Solution Challenge 2023
